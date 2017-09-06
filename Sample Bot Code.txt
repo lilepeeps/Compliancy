@@ -1,0 +1,65 @@
+category|question|answer|photo|
+TGH|What should I consider when thinking about Travel, Gifts and Hospitality?|"Giving or Receiving TGH needs to be:
+- For a legitimate business reason
+- Reasonable – you are expected to use your professional judgement
+- Transparent
+
+NEVER
+- Give or accept cash
+- Provide TGH where a third person would consider it bribery
+- Provide TGH where it creates the appearance of impropriety (for example give or receive frequently to/from the same entity)
+- Use a third party (another supplier/partner)  to provide TGH outside of the policies"|
+TGH|What is the difference between gifts and hospitality?|"Hospitality is meals etc. where the Microsoft Employee offering the hospitality attends the event. 
+Gifts where the goods,services are provided where no MS Employee attends"|
+TGH|What is a Government official?|"- Not just a public official/public body employee
+- Can be ‘private company’ with government appointed board members or with >30% public ownership and other criteria ….
+- Go to the [Company Schedule](https://microsoft.sharepoint.com/teams/controlscomplianceprocesses/anti-corruption/Pages/CountrySchedule.aspx) to check
+"|
+TGH|What is the limit for Government officials?|See image. 
+
+If recipient is from another country check the limit in the [Country Schedule](https://microsoft.sharepoint.com/teams/controlscomplianceprocesses/anti-corruption/Pages/CountrySchedule.aspx) – many countries have lower limits
+. 
+Travel and lodging for government officials must be requested via the [exception tool|(https://microsoft.sharepoint.com/teams/controlscomplianceprocesses/anti-corruption/Pages/SubmitNewRequest.aspx)|golimits.jpg
+TGH|How do I book travel and lodging for a Government official?|Travel and lodging for government officials must be requested via the [exception tool](https://microsoft.sharepoint.com/teams/controlscomplianceprocesses/anti-corruption/Pages/SubmitNewRequest.aspx)|
+TGH|What is the limit for Commercial Customers or Partners?|"Limits for per contact per fiscal year (you may have more than one contact in an organisation)|comlimits.jpg
+TGH|What if I need to exceed the limit for Commercial Customers or Partners?|"- Apply in writing to your Manager
+ - Provide them with an explanation and justification as to why the limits need to be exceeded
+- Estimate the total costs during the year
+- Retain as a record the approval received (note we will put in place a storage location for the requests/approvals in due course.)"|
+TGH|What is the limit for receiving Travel or Gifts or Hospitality?|"Limit is cumalitive per fiscal year
+.|reclimits.jpg
+TGH|What if I wish to exceed the limit for receving Travel or Gifts or Hospitality?|"- Apply in writing to your Manager
+- Provide them with an explanation and justification as to why the limits need to be exceeded
+- Estimate the total costs during the year
+- Retain as a record the approval received (note we will put in place a storage location for the requests/approvals in due course.)"|
+TGH|What do I need to subtract from my expenses for lunch allowance?|"If you are at lunch, FTEs need the subtract the following amounts from the expense claim:
+ Quota-Bearing 8€ 
+Non-Quota Bearing 6.5€"|
+TGH|Who should pay for lunch if more than 1 FTE is in attendance?|If more than one FTE in attendance – the most senior person should pay and expense.|
+TGH|Do I need a VAT receipt?|Expense needs to be supported by itemised bill – VAT ticket alone is not acceptable.|
+TGH|How should I mark Government officials in my expenses?|"When providing hospitality list the attendees, company and country of origin for GOs 
+Ensure you classify the GO expense correctly".|goexpenses.jpg|
+Donations|What are the four requirements for charitable donations?|See image|donationguidance.jpg|
+Donations|How do I make a charitable donation?|See image|howchar.jpg
+Donations|Can I make a personal donation to a charity?|Personal donations made by individual employees are not corporate charitable donations. For guidance and inquiries related to donations funded personally by individual employees through the [Microsoft Employee Giving Program and Giving Campaign](http://aka.ms/give).|giving.jpg
+Donations|Who can I request to give donations to?|"Organisations must be non-profit organisations, non-profit international organisations or public utility foundations. 
+
+To confirm the eligability of a non profit, you can obtain this from alias ngoeligible. 
+Include ""Eligibility Validation Request"" in the subject and all significant information of the donation in the mail. 
+
+Retain validation for IA purposes."|donationeligable.jpg
+Donations|What is a Marketing donation?|The intent is for MS to receive material or economic benefit. When the nonprofit provides MS a material benefit associated with the donation, such as merchandise or dinner at a fundraising event MS employees attend. MARKETING donations are not tax deductible!|
+Donations|What is a Charitable donation?|Donation must be provided without the intent of material benefit to MS. Receiving recognition, such as case study support or logo placement in a program, for the donation is acceptable and not considered material benefit. CHARITABLE donations are tax deductible!|
+Marketing Payments|What is an ATF (after the fact) PO and why is it important?|"PO that is approved after the supplier has begun work
+
+. *Why is it important?
+* - Supplier may not be paid or payment delayed = poor Supplier relationships
+- Creates unknown financial liability for the sub - budget remains available for other Pos so we may try to spend the money twice."|atf.jpg
+Marketing Payments|What is a POE (proof of execution)?|Proof Of Execution is provided by the Supplier to demonstrate that they have delivered the services described in the PO/SOW etc.  It is the responsibility of the Project Owner to ensure that adequate POE is collected and uploaded in MSInvoice.|
+Marketing Payments|Why is POE important?|Provides confirmation to the Invoice Approver that the services have been delivered and that it is OK to pay. Ensures that MSFT is paying for services actually delivered.
+Marketing Payments|What are the policy requirements for a POE?|[Check the Corporate Policy](https://microsoft.sharepoint.com/sites/mspolicy/PurchasingSupplierCompliance/Pages/Proof-of-Execution-Procedure.aspx)|poe.jpg
+Marketing Payments|Why are some POE insufficient and what should you do about it?|see image|insufficientpoe.jpg
+BIF|What is the process for appropriate requesting of BIF (Business Investment Funds)?|For detailed information on the process, templates, policy and reporting, check: [http://aka.ms/BeBIF](http://aka.ms/BeBIF)|bif.jpg
+BIF|What are some of the common errors for requesting BIF?|see image|biferrors.jpg
+Other|How should I distinguish between a Sponsorship, Donation and Co-Marketing event expenditure?|See image|distinguish.jpg
+Other|What is the VAT number of the Belgium subsidiary?|BE0437910359
